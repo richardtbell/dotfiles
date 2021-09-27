@@ -1,3 +1,5 @@
+https://medium.com/buildit/5-simple-tips-to-speed-up-your-development-environment-5a115290f5a1
+
 # Set up zsh
 
 ```bash
